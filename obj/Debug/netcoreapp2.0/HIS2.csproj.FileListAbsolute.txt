@@ -1,0 +1,10 @@
+/Users/travisallan/Projects/HIS2/bin/Debug/netcoreapp2.0/HIS2.deps.json
+/Users/travisallan/Projects/HIS2/bin/Debug/netcoreapp2.0/HIS2.runtimeconfig.json
+/Users/travisallan/Projects/HIS2/bin/Debug/netcoreapp2.0/HIS2.runtimeconfig.dev.json
+/Users/travisallan/Projects/HIS2/bin/Debug/netcoreapp2.0/HIS2.dll
+/Users/travisallan/Projects/HIS2/bin/Debug/netcoreapp2.0/HIS2.pdb
+/Users/travisallan/Projects/HIS2/obj/Debug/netcoreapp2.0/HIS2.csproj.CoreCompileInputs.cache
+/Users/travisallan/Projects/HIS2/obj/Debug/netcoreapp2.0/HIS2.AssemblyInfoInputs.cache
+/Users/travisallan/Projects/HIS2/obj/Debug/netcoreapp2.0/HIS2.AssemblyInfo.cs
+/Users/travisallan/Projects/HIS2/obj/Debug/netcoreapp2.0/HIS2.dll
+/Users/travisallan/Projects/HIS2/obj/Debug/netcoreapp2.0/HIS2.pdb
